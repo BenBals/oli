@@ -4,6 +4,7 @@
   - Sublime Text
   - Atom
   - Emacs (not good for beginners)
+  - Visual Studio Code 
 - Git Client
   - simple CLI Git
   - GitHub for Windows
@@ -15,6 +16,8 @@
 
 ## Text editor
 There are many text editors out there and it is the most essential tool for any developer. They range from feature-loaded to the most simplistic ones. There can never be the perfect editor for everybody and you have to find your very own favorite. For beginners it's usally better to startoff with a simple, easy-to-use one, that still features all important functions. I would probably advise you to use Sublime Text or Atom first.
+
+Visual Studio Code is a new editor only released a few months back and seems to be awesome. You might want to give it a shot. It also has wonderful support of git, which you will read about in the next paragraph.
 
 ## Git client
 Git is the de facto standart for developer collaboration. It can be used with a GUI-Application like GitHub for Windows or in it's rawest form from the command line. Either way learning git is an important part of decoming a proficient developer, who is able to work with others.

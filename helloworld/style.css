@@ -1,3 +1,14 @@
 .hello {
     color: red;
 }
+
+footer {
+    border-top: 1px solid black;
+    position: absolute;
+    bottom: 0;
+    width: 98%;
+}
+
+footer > p {
+    font-size: 12px;
+}

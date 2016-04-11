@@ -12,3 +12,9 @@ footer {
 footer > p {
     font-size: 12px;
 }
+
+h3 {
+    font-weight: 400;
+    text-decoration: underline;
+    font-variant: small-caps;
+}

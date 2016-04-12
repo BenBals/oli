@@ -25,6 +25,5 @@ Git is the de facto standart for developer collaboration. It can be used with a 
 ## Web browser
 For us as web developers the browser is a place where we spent a lot of time. Be it fixing bugs or making sure everything looks and works as expected so we should be very picky in our selection of it. Good the developer tools can take you great lenghts. Chrome is the browser most commonly used by web devs around the world. But also the recently released Firefox Developer Edition is worth looking at.
 
-
 ## Elm platform
 The Elm platform contains all necissary tools for compiling Elm programs. It does much more than that, but that's the most important fact about it. 

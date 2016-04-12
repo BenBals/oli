@@ -7,7 +7,7 @@
   - Visual Studio Code 
 - Git Client
   - simple CLI Git
-  - GitHub for Windows
+  - [GitHub for Windows](https://desktop.github.com/) 
   - Sourcetree
 - Web browser
   - Google Chrome

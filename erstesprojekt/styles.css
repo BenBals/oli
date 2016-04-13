@@ -19,3 +19,21 @@ h1 {
 #footer {
   font-size: 12px;
 }
+
+.button {
+  background-color: #4FC2E8;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  float: right;
+  transition: 0.5s background-color, 1s padding;
+}
+
+.button:hover {
+  background-color: #1C2AED;
+}
+
+.button:active {
+  background-color: #ED4060;
+  padding: 7px;
+}

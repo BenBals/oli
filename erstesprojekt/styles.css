@@ -1,3 +1,12 @@
+body {
+  margin: 0;
+  font-family: Roboto, Arial, sans-serif;
+}
+
+.content {
+  margin: 5px;
+}
+
 h1 {
   color: green;
   font-size: 46px;
@@ -9,7 +18,7 @@ h1 {
 
 #was-kann-es {
   color: blue;
-  background-color: grey;
+  /*background-color: grey;*/
 }
 
 #ueber-uns {
@@ -36,4 +45,29 @@ h1 {
 .button:active {
   background-color: #ED4060;
   padding: 7px;
+}
+
+nav {
+  background-color: blue;
+  padding: 1px 10px;
+}
+
+nav ul {
+  padding-left: 5px
+}
+
+nav li {
+  display: inline;
+  margin-left: 5px;
+  border-left: 1px solid white;
+  padding-left: 6px
+}
+
+.no-left-border {
+  border-left: none;
+}
+
+nav li a {
+  text-decoration: none;
+  color: white;
 }
